@@ -1,0 +1,918 @@
+/usr/local/lib/python3.5/dist-packages/sklearn/base.py:251: UserWarning: Trying to unpickle estimator CountVectorizer from version 0.19.1 when using version 0.20.1. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+/usr/local/lib/python3.5/dist-packages/sklearn/base.py:251: UserWarning: Trying to unpickle estimator TfidfTransformer from version 0.19.1 when using version 0.20.1. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+/usr/local/lib/python3.5/dist-packages/sklearn/base.py:251: UserWarning: Trying to unpickle estimator LogisticRegression from version 0.19.1 when using version 0.20.1. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+/usr/local/lib/python3.5/dist-packages/sklearn/base.py:251: UserWarning: Trying to unpickle estimator TruncatedSVD from version 0.19.1 when using version 0.20.1. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+/usr/local/lib/python3.5/dist-packages/sklearn/base.py:251: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.19.1 when using version 0.20.1. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+/usr/local/lib/python3.5/dist-packages/sklearn/base.py:251: UserWarning: Trying to unpickle estimator TfidfTransformer from version 0.19.2 when using version 0.20.1. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+/usr/local/lib/python3.5/dist-packages/sklearn/base.py:251: UserWarning: Trying to unpickle estimator SVC from version 0.19.2 when using version 0.20.1. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+[08/Dec/2018 17:04:53] "GET /admin/experiment/unlabel_data/ HTTP/1.1" 200 64086
+[08/Dec/2018 17:04:56] "GET /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[08/Dec/2018 17:04:56] "GET /admin/ HTTP/1.1" 200 4179
+[08/Dec/2018 17:04:56] "GET /admin/ HTTP/1.1" 200 4179
+[08/Dec/2018 17:04:57] "GET /index/ HTTP/1.1" 200 5936
+[08/Dec/2018 17:05:02] "GET /admin/ HTTP/1.1" 200 4179
+[08/Dec/2018 17:05:06] "GET /admin/auth/user/ HTTP/1.1" 200 6642
+[08/Dec/2018 17:05:06] "GET /admin/jsi18n/ HTTP/1.1" 200 7684
+[08/Dec/2018 17:05:09] "GET /admin/ HTTP/1.1" 200 4179
+Performing system checks...
+
+load preprocess beginning...
+load preprocess finishing...
+System check identified no issues (0 silenced).
+December 08, 2018 - 17:01:33
+Django version 2.1.3, using settings 'TextClassifyServer.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+/usr/local/lib/python3.5/dist-packages/sklearn/base.py:251: UserWarning: Trying to unpickle estimator CountVectorizer from version 0.19.1 when using version 0.20.1. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+/usr/local/lib/python3.5/dist-packages/sklearn/base.py:251: UserWarning: Trying to unpickle estimator TfidfTransformer from version 0.19.1 when using version 0.20.1. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+/usr/local/lib/python3.5/dist-packages/sklearn/base.py:251: UserWarning: Trying to unpickle estimator LogisticRegression from version 0.19.1 when using version 0.20.1. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+/usr/local/lib/python3.5/dist-packages/sklearn/base.py:251: UserWarning: Trying to unpickle estimator TruncatedSVD from version 0.19.1 when using version 0.20.1. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+/usr/local/lib/python3.5/dist-packages/sklearn/base.py:251: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.19.1 when using version 0.20.1. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+/usr/local/lib/python3.5/dist-packages/sklearn/base.py:251: UserWarning: Trying to unpickle estimator TfidfTransformer from version 0.19.2 when using version 0.20.1. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+/usr/local/lib/python3.5/dist-packages/sklearn/base.py:251: UserWarning: Trying to unpickle estimator SVC from version 0.19.2 when using version 0.20.1. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+[08/Dec/2018 17:09:17] "GET /admin/ HTTP/1.1" 200 3077
+Performing system checks...
+
+load preprocess beginning...
+load preprocess finishing...
+System check identified no issues (0 silenced).
+December 08, 2018 - 17:09:15
+Django version 2.1.3, using settings 'TextClassifyServer.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+/usr/local/lib/python3.5/dist-packages/sklearn/base.py:251: UserWarning: Trying to unpickle estimator CountVectorizer from version 0.19.1 when using version 0.20.1. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+/usr/local/lib/python3.5/dist-packages/sklearn/base.py:251: UserWarning: Trying to unpickle estimator TfidfTransformer from version 0.19.1 when using version 0.20.1. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+/usr/local/lib/python3.5/dist-packages/sklearn/base.py:251: UserWarning: Trying to unpickle estimator LogisticRegression from version 0.19.1 when using version 0.20.1. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+/usr/local/lib/python3.5/dist-packages/sklearn/base.py:251: UserWarning: Trying to unpickle estimator TruncatedSVD from version 0.19.1 when using version 0.20.1. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+/usr/local/lib/python3.5/dist-packages/sklearn/base.py:251: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.19.1 when using version 0.20.1. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+/usr/local/lib/python3.5/dist-packages/sklearn/base.py:251: UserWarning: Trying to unpickle estimator TfidfTransformer from version 0.19.2 when using version 0.20.1. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+/usr/local/lib/python3.5/dist-packages/sklearn/base.py:251: UserWarning: Trying to unpickle estimator SVC from version 0.19.2 when using version 0.20.1. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+Performing system checks...
+
+load preprocess beginning...
+load preprocess finishing...
+System check identified no issues (0 silenced).
+December 08, 2018 - 17:13:11
+Django version 2.1.3, using settings 'TextClassifyServer.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+/usr/local/lib/python3.5/dist-packages/sklearn/base.py:251: UserWarning: Trying to unpickle estimator CountVectorizer from version 0.19.1 when using version 0.20.1. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+/usr/local/lib/python3.5/dist-packages/sklearn/base.py:251: UserWarning: Trying to unpickle estimator TfidfTransformer from version 0.19.1 when using version 0.20.1. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+/usr/local/lib/python3.5/dist-packages/sklearn/base.py:251: UserWarning: Trying to unpickle estimator LogisticRegression from version 0.19.1 when using version 0.20.1. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+/usr/local/lib/python3.5/dist-packages/sklearn/base.py:251: UserWarning: Trying to unpickle estimator TruncatedSVD from version 0.19.1 when using version 0.20.1. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+/usr/local/lib/python3.5/dist-packages/sklearn/base.py:251: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.19.1 when using version 0.20.1. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+/usr/local/lib/python3.5/dist-packages/sklearn/base.py:251: UserWarning: Trying to unpickle estimator TfidfTransformer from version 0.19.2 when using version 0.20.1. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+/usr/local/lib/python3.5/dist-packages/sklearn/base.py:251: UserWarning: Trying to unpickle estimator SVC from version 0.19.2 when using version 0.20.1. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+[08/Dec/2018 17:14:11] "GET /admin/ HTTP/1.1" 200 3089
+Not Found: /
+[08/Dec/2018 17:18:36] "GET / HTTP/1.1" 404 2044
+[08/Dec/2018 17:18:41] "GET /admin/ HTTP/1.1" 200 3089
+[08/Dec/2018 17:24:23] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[08/Dec/2018 17:24:23] "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+[08/Dec/2018 17:24:23] "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+[08/Dec/2018 17:24:23] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+[08/Dec/2018 17:24:23] "GET /admin/jsi18n/ HTTP/1.1" 200 7684
+[08/Dec/2018 17:24:23] "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+[08/Dec/2018 17:24:23] "GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+[08/Dec/2018 17:24:23] "GET /admin/experiment/text/ HTTP/1.1" 200 49630
+[08/Dec/2018 17:24:23] "GET /static/admin/js/core.js HTTP/1.1" 304 0
+[08/Dec/2018 17:24:23] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+[08/Dec/2018 17:24:23] "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+[08/Dec/2018 17:24:23] "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+[08/Dec/2018 17:24:23] "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+[08/Dec/2018 17:24:23] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+[08/Dec/2018 17:24:23] "GET /static/admin/img/search.svg HTTP/1.1" 304 0
+[08/Dec/2018 17:24:24] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+[08/Dec/2018 17:24:24] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+[08/Dec/2018 17:24:24] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+[08/Dec/2018 17:24:24] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+[08/Dec/2018 17:24:28] "GET /admin/experiment/ HTTP/1.1" 200 2957
+[08/Dec/2018 17:24:28] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[08/Dec/2018 17:24:28] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+[08/Dec/2018 17:24:28] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+[08/Dec/2018 17:24:30] "GET /admin/jsi18n/ HTTP/1.1" 200 7684
+[08/Dec/2018 17:24:30] "GET /admin/experiment/unlabel_data/ HTTP/1.1" 200 64094
+Not Found: /
+[08/Dec/2018 17:41:54] "POST / HTTP/1.1" 404 2041
+Not Found: /
+[08/Dec/2018 19:48:23] "POST / HTTP/1.1" 404 2041
+Not Found: /
+[08/Dec/2018 21:34:57] "POST / HTTP/1.1" 404 2041
+Not Found: /
+[08/Dec/2018 22:59:22] "POST / HTTP/1.1" 404 2041
+Not Found: /
+[08/Dec/2018 23:21:49] "POST / HTTP/1.1" 404 2041
+Not Found: /
+[08/Dec/2018 23:41:52] "POST / HTTP/1.1" 404 2041
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add 'www.baidu.com' to ALLOWED_HOSTS.
+Bad Request: /http:/www.baidu.com/cache/global/img/gs.gif
+[09/Dec/2018 00:16:52] "GET http://www.baidu.com/cache/global/img/gs.gif HTTP/1.1" 400 59076
+Not Found: /
+[09/Dec/2018 00:48:08] "POST / HTTP/1.1" 404 2041
+Not Found: /
+[09/Dec/2018 01:53:49] "POST / HTTP/1.1" 404 2041
+Not Found: /http:/47.104.152.193/
+[09/Dec/2018 03:09:26] "GET http://47.104.152.193/ HTTP/1.1" 404 1673
+Not Found: /
+[09/Dec/2018 03:19:40] "POST / HTTP/1.1" 404 2041
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.870 seconds.
+Prefix dict has been built succesfully.
+[09/Dec/2018 03:41:15] "POST /index/ HTTP/1.1" 200 6209
+[09/Dec/2018 03:41:19] "POST /index/ HTTP/1.1" 200 5936
+Internal Server Error: /index/
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/usr/local/lib/python3.5/dist-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/root/WebDataMining/TextClassifyServer/experiment/views.py", line 31, in index
+    lr_result,time_result = lr_model.text_test(message_text)
+  File "/root/WebDataMining/TextClassifyServer/experiment/lr_model/lr_model.py", line 36, in text_test
+    text_pro = preprocess_test(text)
+  File "/root/WebDataMining/TextClassifyServer/experiment/lr_model/lr_model.py", line 21, in preprocess_test
+    data_cut = segs[0]
+IndexError: list index out of range
+[09/Dec/2018 03:41:21] "POST /index/ HTTP/1.1" 500 72876
+Not Found: /favicon.ico
+[09/Dec/2018 03:41:21] "GET /favicon.ico HTTP/1.1" 404 2095
+Not Found: /
+[09/Dec/2018 03:42:12] "POST / HTTP/1.1" 404 2041
+Not Found: /
+[09/Dec/2018 04:22:59] "POST / HTTP/1.1" 404 2041
+[09/Dec/2018 04:45:04] "GET /index/ HTTP/1.1" 200 5936
+Not Found: /index/MyIcon.png
+[09/Dec/2018 04:45:05] "GET /index/MyIcon.png HTTP/1.1" 404 2110
+[09/Dec/2018 04:46:05] "GET /index/ HTTP/1.1" 200 5936
+[09/Dec/2018 04:46:14] "GET /admin/ HTTP/1.1" 200 3089
+[09/Dec/2018 04:46:14] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[09/Dec/2018 04:46:14] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[09/Dec/2018 04:46:14] "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+[09/Dec/2018 04:46:14] "GET /static/admin/css/fonts.css HTTP/1.1" 304 0
+[09/Dec/2018 04:46:14] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 304 0
+[09/Dec/2018 04:46:14] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 304 0
+[09/Dec/2018 04:46:14] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 304 0
+[09/Dec/2018 04:46:14] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+[09/Dec/2018 04:46:14] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+Not Found: /favicon.ico
+[09/Dec/2018 04:46:14] "GET /favicon.ico HTTP/1.1" 404 2095
+Not Found: /
+[09/Dec/2018 05:04:14] "POST / HTTP/1.1" 404 2041
+Not Found: /
+[09/Dec/2018 06:43:27] "GET / HTTP/1.1" 404 2039
+Not Found: /
+[09/Dec/2018 06:51:52] "POST / HTTP/1.1" 404 2041
+[09/Dec/2018 07:19:22] "GET /index/ HTTP/1.1" 200 5936
+Not Found: /index/MyIcon.png
+[09/Dec/2018 07:19:37] "GET /index/MyIcon.png HTTP/1.1" 404 2110
+[09/Dec/2018 07:48:29] "POST /index/ HTTP/1.1" 200 6209
+Not Found: /
+[09/Dec/2018 07:57:09] "POST / HTTP/1.1" 404 2041
+[09/Dec/2018 08:00:31] "GET /index/ HTTP/1.1" 200 5936
+[09/Dec/2018 08:05:19] "GET /admin/ HTTP/1.1" 302 0
+[09/Dec/2018 08:05:19] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1818
+[09/Dec/2018 08:05:19] "GET /static/admin/css/base.css HTTP/1.1" 200 16225
+[09/Dec/2018 08:05:19] "GET /static/admin/css/login.css HTTP/1.1" 200 1203
+[09/Dec/2018 08:05:19] "GET /static/admin/css/responsive.css HTTP/1.1" 200 17976
+[09/Dec/2018 08:05:19] "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+Not Found: /favicon.ico
+[09/Dec/2018 08:05:19] "GET /favicon.ico HTTP/1.1" 404 2095
+[09/Dec/2018 08:05:19] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 80304
+[09/Dec/2018 08:05:19] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 81348
+[09/Dec/2018 08:07:49] "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[09/Dec/2018 08:07:49] "GET /admin/ HTTP/1.1" 200 3089
+[09/Dec/2018 08:07:49] "GET /static/admin/css/dashboard.css HTTP/1.1" 200 412
+[09/Dec/2018 08:07:49] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+[09/Dec/2018 08:07:49] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+[09/Dec/2018 08:07:49] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 82564
+[09/Dec/2018 08:10:12] "GET /admin/experiment/text/ HTTP/1.1" 200 49630
+[09/Dec/2018 08:10:12] "GET /static/admin/css/changelists.css HTTP/1.1" 200 6170
+[09/Dec/2018 08:10:12] "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 363
+[09/Dec/2018 08:10:12] "GET /static/admin/js/core.js HTTP/1.1" 200 7135
+[09/Dec/2018 08:10:12] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 6918
+[09/Dec/2018 08:10:12] "GET /admin/jsi18n/ HTTP/1.1" 200 7684
+[09/Dec/2018 08:10:12] "GET /static/admin/js/actions.js HTTP/1.1" 200 6538
+[09/Dec/2018 08:10:12] "GET /static/admin/js/urlify.js HTTP/1.1" 200 8972
+[09/Dec/2018 08:10:12] "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1530
+[09/Dec/2018 08:10:12] "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+[09/Dec/2018 08:10:12] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 128820
+[09/Dec/2018 08:10:14] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 271751
+[09/Dec/2018 08:10:15] "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+[09/Dec/2018 08:10:15] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+[09/Dec/2018 08:10:17] "GET /admin/experiment/text/?o=1 HTTP/1.1" 200 51077
+[09/Dec/2018 08:10:17] "GET /admin/jsi18n/ HTTP/1.1" 200 7684
+[09/Dec/2018 08:12:30] "GET /admin/experiment/ HTTP/1.1" 200 2957
+[09/Dec/2018 08:12:32] "GET /admin/experiment/unlabel_data/ HTTP/1.1" 200 64094
+[09/Dec/2018 08:12:32] "GET /admin/jsi18n/ HTTP/1.1" 200 7684
+[09/Dec/2018 08:12:32] "GET /static/admin/img/icon-no.svg HTTP/1.1" 200 560
+[09/Dec/2018 08:12:32] "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+[09/Dec/2018 08:12:38] "GET /admin/experiment/unlabel_data/?o= HTTP/1.1" 200 66459
+[09/Dec/2018 08:12:38] "GET /admin/jsi18n/ HTTP/1.1" 200 7684
+[09/Dec/2018 08:12:41] "GET /admin/experiment/unlabel_data/?o=1 HTTP/1.1" 200 64656
+[09/Dec/2018 08:12:41] "GET /admin/jsi18n/ HTTP/1.1" 200 7684
+[09/Dec/2018 08:14:59] "GET /admin/experiment/ HTTP/1.1" 200 2957
+[09/Dec/2018 08:15:01] "GET /admin/experiment/text/ HTTP/1.1" 200 49630
+[09/Dec/2018 08:15:01] "GET /admin/jsi18n/ HTTP/1.1" 200 7684
+Not Found: /
+[09/Dec/2018 08:17:04] "POST / HTTP/1.1" 404 2041
+Not Found: /
+[09/Dec/2018 09:00:32] "POST / HTTP/1.1" 404 2041
+Not Found: /
+[09/Dec/2018 10:02:18] "POST / HTTP/1.1" 404 2041
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add 'www.baidu.com' to ALLOWED_HOSTS.
+Bad Request: /http:/www.baidu.com/cache/global/img/gs.gif
+[09/Dec/2018 10:09:20] "GET http://www.baidu.com/cache/global/img/gs.gif HTTP/1.1" 400 59075
+Not Found: /
+[09/Dec/2018 10:44:38] "POST / HTTP/1.1" 404 2041
+Not Found: /
+[09/Dec/2018 11:06:22] "POST / HTTP/1.1" 404 2041
+Not Found: /
+[09/Dec/2018 11:50:04] "POST / HTTP/1.1" 404 2041
+Not Found: /
+[09/Dec/2018 12:30:32] "POST / HTTP/1.1" 404 2041
+Not Found: /
+[09/Dec/2018 12:51:46] "POST / HTTP/1.1" 404 2041
+Not Found: /
+[09/Dec/2018 13:19:34] "GET / HTTP/1.1" 404 2044
+Not Found: /
+[09/Dec/2018 13:35:47] "POST / HTTP/1.1" 404 2041
+Not Found: /
+[09/Dec/2018 13:57:06] "POST / HTTP/1.1" 404 2041
+Not Found: /
+[09/Dec/2018 14:39:25] "POST / HTTP/1.1" 404 2041
+[09/Dec/2018 15:07:20] "POST /index/ HTTP/1.1" 200 6209
+[09/Dec/2018 15:07:36] "POST /index/ HTTP/1.1" 200 6209
+[09/Dec/2018 15:07:51] "POST /index/ HTTP/1.1" 200 6209
+[09/Dec/2018 15:08:07] "POST /index/ HTTP/1.1" 200 6209
+Not Found: /
+[09/Dec/2018 15:24:27] "POST / HTTP/1.1" 404 2041
+Not Found: /
+[09/Dec/2018 17:50:51] "GET / HTTP/1.1" 404 2044
+Not Found: /
+[09/Dec/2018 17:54:11] "POST / HTTP/1.1" 404 2041
+Not Found: /
+[09/Dec/2018 18:36:59] "POST / HTTP/1.1" 404 2041
+Not Found: /
+[09/Dec/2018 18:58:18] "GET / HTTP/1.1" 404 2044
+Not Found: /
+[09/Dec/2018 18:58:48] "POST / HTTP/1.1" 404 2041
+Not Found: /
+[09/Dec/2018 20:03:22] "POST / HTTP/1.1" 404 2041
+Invalid HTTP_HOST header: '112.124.42.80:63435'. You may need to add '112.124.42.80' to ALLOWED_HOSTS.
+Bad Request: /http:/112.124.42.80:63435/
+[09/Dec/2018 20:31:24] "HEAD http://112.124.42.80:63435/ HTTP/1.1" 400 59367
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add 'www.baidu.com' to ALLOWED_HOSTS.
+Bad Request: /http:/www.baidu.com/cache/global/img/gs.gif
+[09/Dec/2018 21:00:22] "GET http://www.baidu.com/cache/global/img/gs.gif HTTP/1.1" 400 59076
+Not Found: /
+[09/Dec/2018 21:27:32] "POST / HTTP/1.1" 404 2041
+Not Found: /
+[09/Dec/2018 21:48:49] "POST / HTTP/1.1" 404 2041
+Not Found: /
+[09/Dec/2018 22:53:41] "POST / HTTP/1.1" 404 2041
+Not Found: /
+[10/Dec/2018 00:16:57] "POST / HTTP/1.1" 404 2041
+Not Found: /
+[10/Dec/2018 01:22:15] "POST / HTTP/1.1" 404 2041
+Not Found: /
+[10/Dec/2018 01:43:23] "POST / HTTP/1.1" 404 2041
+Not Found: /
+[10/Dec/2018 02:06:16] "POST / HTTP/1.1" 404 2041
+Not Found: /
+[10/Dec/2018 02:33:36] "GET / HTTP/1.1" 404 2044
+Not Found: /
+[10/Dec/2018 03:09:59] "POST / HTTP/1.1" 404 2041
+Not Found: /
+[10/Dec/2018 03:53:43] "POST / HTTP/1.1" 404 2041
+Not Found: /
+[10/Dec/2018 04:38:34] "POST / HTTP/1.1" 404 2041
+Not Found: /
+[10/Dec/2018 04:51:24] "GET / HTTP/1.1" 404 2044
+Not Found: /
+[10/Dec/2018 06:05:42] "POST / HTTP/1.1" 404 2041
+Not Found: /
+[10/Dec/2018 06:27:02] "POST / HTTP/1.1" 404 2041
+Not Found: /
+[10/Dec/2018 06:49:49] "POST / HTTP/1.1" 404 2041
+Not Found: /
+[10/Dec/2018 06:53:07] "GET / HTTP/1.1" 404 2044
+Not Found: /
+[10/Dec/2018 07:12:24] "POST / HTTP/1.1" 404 2041
+Not Found: /
+[10/Dec/2018 07:44:14] "GET / HTTP/1.1" 404 2044
+Not Found: /
+[10/Dec/2018 07:55:18] "POST / HTTP/1.1" 404 2041
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add 'www.baidu.com' to ALLOWED_HOSTS.
+Bad Request: /http:/www.baidu.com/cache/global/img/gs.gif
+[10/Dec/2018 07:57:35] "GET http://www.baidu.com/cache/global/img/gs.gif HTTP/1.1" 400 59077
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add 'www.baidu.com' to ALLOWED_HOSTS.
+Bad Request: /http:/www.baidu.com/cache/global/img/gs.gif
+[10/Dec/2018 08:04:21] "GET http://www.baidu.com/cache/global/img/gs.gif HTTP/1.1" 400 59076
+Not Found: /
+[10/Dec/2018 08:17:17] "POST / HTTP/1.1" 404 2041
+Not Found: /
+[10/Dec/2018 08:39:39] "POST / HTTP/1.1" 404 2041
+Not Found: /
+[10/Dec/2018 08:50:04] "GET / HTTP/1.1" 404 2044
+Not Found: /
+[10/Dec/2018 09:36:55] "GET / HTTP/1.1" 404 2044
+Not Found: /
+[10/Dec/2018 10:02:35] "GET / HTTP/1.1" 404 2044
+Not Found: /
+[10/Dec/2018 10:50:49] "POST / HTTP/1.1" 404 2041
+Not Found: /
+[10/Dec/2018 11:34:30] "POST / HTTP/1.1" 404 2041
+Not Found: /
+[10/Dec/2018 12:38:12] "POST / HTTP/1.1" 404 2041
+Not Found: /
+[10/Dec/2018 13:42:48] "POST / HTTP/1.1" 404 2041
+Not Found: /
+[10/Dec/2018 14:01:59] "POST / HTTP/1.1" 404 2041
+Not Found: /
+[10/Dec/2018 14:46:07] "POST / HTTP/1.1" 404 2041
+Performing system checks...
+
+load preprocess beginning...
+load preprocess finishing...
+System check identified no issues (0 silenced).
+December 08, 2018 - 17:13:55
+Django version 2.1.3, using settings 'TextClassifyServer.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+不好 ['0']
+Start SVM Test!
+SVM predict result: 0
+SVM predict time: 0.898
+Start LR Test!
+LR predict result: 0
+LR predict time: 0.002
+Start LGBM Test!
+LGBM predict result: 0
+LGBM predict time: 0.185
+ ['0']
+1 ['0']
+Start SVM Test!
+SVM predict result: 0
+SVM predict time: 0.003
+Start LR Test!
+.x月xx日推出凭证式国债x年期x.xx.xx%，x年期x.xx%到期一次还本付息。真情邮政，为您竭诚服务！ ['0']
+Start SVM Test!
+SVM predict result: 1
+SVM predict time: 0.005
+Start LR Test!
+LR predict result: 1
+LR predict time: 0.003
+Start LGBM Test!
+LGBM predict result: 0
+LGBM predict time: 0.162
+有原因不明的泌尿系统结石等 ['0']
+Start SVM Test!
+SVM predict result: 0
+SVM predict time: 0.005
+Start LR Test!
+LR predict result: 0
+LR predict time: 0.004
+Start LGBM Test!
+LGBM predict result: 0
+LGBM predict time: 0.182
+中国特色社会主义 ['0']
+Start SVM Test!
+SVM predict result: 0
+SVM predict time: 0.002
+Start LR Test!
+LR predict result: 0
+LR predict time: 0.002
+Start LGBM Test!
+LGBM predict result: 0
+LGBM predict time: 0.156
+澳门赌场上线了 ['0']
+Start SVM Test!
+SVM predict result: 0
+SVM predict time: 0.003
+Start LR Test!
+LR predict result: 0
+LR predict time: 0.002
+Start LGBM Test!
+LGBM predict result: 0
+LGBM predict time: 0.159
+上图是各种算法的评估对比，可以从数据库中查看无标签数据不同算法的测试信息 ['0']
+Start SVM Test!
+SVM predict result: 0
+SVM predict time: 0.006
+Start LR Test!
+LR predict result: 0
+LR predict time: 0.002
+Start LGBM Test!
+LGBM predict result: 0
+LGBM predict time: 0.151
+/usr/local/lib/python3.5/dist-packages/sklearn/base.py:251: UserWarning: Trying to unpickle estimator CountVectorizer from version 0.19.1 when using version 0.20.1. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+/usr/local/lib/python3.5/dist-packages/sklearn/base.py:251: UserWarning: Trying to unpickle estimator TfidfTransformer from version 0.19.1 when using version 0.20.1. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+/usr/local/lib/python3.5/dist-packages/sklearn/base.py:251: UserWarning: Trying to unpickle estimator LogisticRegression from version 0.19.1 when using version 0.20.1. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+/usr/local/lib/python3.5/dist-packages/sklearn/base.py:251: UserWarning: Trying to unpickle estimator TruncatedSVD from version 0.19.1 when using version 0.20.1. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+/usr/local/lib/python3.5/dist-packages/sklearn/base.py:251: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.19.1 when using version 0.20.1. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+/usr/local/lib/python3.5/dist-packages/sklearn/base.py:251: UserWarning: Trying to unpickle estimator TfidfTransformer from version 0.19.2 when using version 0.20.1. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+/usr/local/lib/python3.5/dist-packages/sklearn/base.py:251: UserWarning: Trying to unpickle estimator SVC from version 0.19.2 when using version 0.20.1. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+[10/Dec/2018 15:57:27] "GET /index/ HTTP/1.1" 200 5936
+Not Found: /index/MyIcon.png
+[10/Dec/2018 15:57:28] "GET /index/MyIcon.png HTTP/1.1" 404 2110
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.943 seconds.
+Prefix dict has been built succesfully.
+[10/Dec/2018 15:57:39] "POST /index/ HTTP/1.1" 200 6210
+[10/Dec/2018 15:57:51] "POST /index/ HTTP/1.1" 200 6210
+[10/Dec/2018 16:05:13] "GET /index/ HTTP/1.1" 200 5936
+Not Found: /index/MyIcon.png
+[10/Dec/2018 16:05:17] "GET /index/MyIcon.png HTTP/1.1" 404 2110
+[10/Dec/2018 16:05:47] "GET /index/ HTTP/1.1" 200 5936
+Not Found: /
+[10/Dec/2018 16:12:12] "POST / HTTP/1.1" 404 2041
+Not Found: /
+[10/Dec/2018 16:53:57] "POST / HTTP/1.1" 404 2041
+Not Found: /
+[10/Dec/2018 17:36:25] "POST / HTTP/1.1" 404 2041
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add 'www.baidu.com' to ALLOWED_HOSTS.
+Bad Request: /http:/www.baidu.com/cache/global/img/gs.gif
+[10/Dec/2018 18:08:41] "GET http://www.baidu.com/cache/global/img/gs.gif HTTP/1.1" 400 59077
+Not Found: /
+[10/Dec/2018 19:24:01] "POST / HTTP/1.1" 404 2041
+Not Found: /
+[10/Dec/2018 19:44:16] "POST / HTTP/1.1" 404 2041
+Invalid HTTP_HOST header: 'www.ip138.com'. You may need to add 'www.ip138.com' to ALLOWED_HOSTS.
+Bad Request: /http:/www.ip138.com/
+[10/Dec/2018 19:57:51] "GET http://www.ip138.com/ HTTP/1.1" 400 59726
+Not Found: /
+[10/Dec/2018 20:28:04] "POST / HTTP/1.1" 404 2041
+Not Found: /
+[10/Dec/2018 21:09:00] "POST / HTTP/1.1" 404 2041
+Not Found: /
+[10/Dec/2018 23:17:26] "POST / HTTP/1.1" 404 2041
+Not Found: /
+[10/Dec/2018 23:37:17] "POST / HTTP/1.1" 404 2041
+Not Found: /
+[11/Dec/2018 01:03:28] "POST / HTTP/1.1" 404 2041
+Not Found: /
+[11/Dec/2018 01:44:41] "POST / HTTP/1.1" 404 2041
+Not Found: /
+[11/Dec/2018 02:06:16] "POST / HTTP/1.1" 404 2041
+Not Found: /
+[11/Dec/2018 03:53:13] "POST / HTTP/1.1" 404 2041
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add 'www.baidu.com' to ALLOWED_HOSTS.
+Bad Request: /http:/www.baidu.com/cache/global/img/gs.gif
+[11/Dec/2018 04:19:44] "GET http://www.baidu.com/cache/global/img/gs.gif HTTP/1.1" 400 59077
+Not Found: /
+[11/Dec/2018 04:35:37] "POST / HTTP/1.1" 404 2041
+Not Found: /
+[11/Dec/2018 04:54:22] "POST / HTTP/1.1" 404 2041
+Invalid HTTP_HOST header: 'www.qq.com'. You may need to add 'www.qq.com' to ALLOWED_HOSTS.
+Bad Request: /http:/www.qq.com/404/search_children.js
+[11/Dec/2018 05:21:26] "GET http://www.qq.com/404/search_children.js HTTP/1.1" 400 59188
+[11/Dec/2018 05:21:31] code 400, message Bad request syntax ('\x04\x01\x00PpTi4\x00')
+[11/Dec/2018 05:21:31] " PpTi4 " 400 -
+[11/Dec/2018 05:21:31] code 400, message Bad request syntax ('\x05\x01\x00')
+[11/Dec/2018 05:21:31] " " 400 -
+Not Found: /
+[11/Dec/2018 05:36:54] "POST / HTTP/1.1" 404 2041
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add 'www.baidu.com' to ALLOWED_HOSTS.
+Bad Request: /http:/www.baidu.com/cache/global/img/gs.gif
+[11/Dec/2018 05:55:48] "GET http://www.baidu.com/cache/global/img/gs.gif HTTP/1.1" 400 59076
+Not Found: /
+[11/Dec/2018 05:59:51] "POST / HTTP/1.1" 404 2041
+Not Found: /
+[11/Dec/2018 06:20:06] "POST / HTTP/1.1" 404 2041
+Not Found: /
+[11/Dec/2018 07:24:27] "POST / HTTP/1.1" 404 2041
+Not Found: /
+[11/Dec/2018 08:28:10] "POST / HTTP/1.1" 404 2041
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/socketserver.py", line 625, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.5/socketserver.py", line 354, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.5/socketserver.py", line 681, in __init__
+    self.handle()
+  File "/usr/local/lib/python3.5/dist-packages/django/core/servers/basehttp.py", line 139, in handle
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.5/socket.py", line 575, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+[11/Dec/2018 08:29:48] code 400, message Bad request syntax ('\x00\x00\x00TZ\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x10\x04\x01.\x05\x00\x00\x00\x00\x81I¨À\x00\x0c)\x83z»\x01\x00zÚf\x00\x8d\x16Ò~\x9dU\x05ñ\x1fi»©\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00ÃÐ¢|¦v½ó\x1eOÑËÜ®Ëd')
+[11/Dec/2018 08:29:48] "   TZ         .    I¨À )z» zÚf Ò~Uñi»©                ÃÐ¢|¦v½óOÑËÜ®Ëd" 400 -
+Not Found: /
+[11/Dec/2018 08:49:57] "POST / HTTP/1.1" 404 2041
+Not Found: /
+[11/Dec/2018 09:10:42] "POST / HTTP/1.1" 404 2041
+Not Found: /
+[11/Dec/2018 09:33:55] "POST / HTTP/1.1" 404 2041
+Not Found: /
+[11/Dec/2018 09:54:10] "POST / HTTP/1.1" 404 2041
+Not Found: /
+[11/Dec/2018 10:38:17] "POST / HTTP/1.1" 404 2041
+Not Found: /
+[11/Dec/2018 12:21:59] "POST / HTTP/1.1" 404 2041
+Not Found: /
+[11/Dec/2018 12:43:01] "POST / HTTP/1.1" 404 2041
+Not Found: /
+[11/Dec/2018 14:10:02] "POST / HTTP/1.1" 404 2041
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add 'www.baidu.com' to ALLOWED_HOSTS.
+Bad Request: /http:/www.baidu.com/cache/global/img/gs.gif
+[11/Dec/2018 14:28:06] "GET http://www.baidu.com/cache/global/img/gs.gif HTTP/1.1" 400 59077
+[11/Dec/2018 14:39:11] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[11/Dec/2018 14:39:11] "  /*à     Cookie: mstshash=Administr" 400 -
+Not Found: /
+[11/Dec/2018 15:14:06] "POST / HTTP/1.1" 404 2041
+Not Found: /
+[11/Dec/2018 17:41:21] "POST / HTTP/1.1" 404 2041
+Not Found: /
+[11/Dec/2018 19:05:35] "POST / HTTP/1.1" 404 2041
+Not Found: /
+[11/Dec/2018 19:28:03] "POST / HTTP/1.1" 404 2041
+Not Found: /
+[11/Dec/2018 19:50:28] "POST / HTTP/1.1" 404 2041
+Not Found: /
+[11/Dec/2018 20:32:32] "POST / HTTP/1.1" 404 2041
+Not Found: /
+[11/Dec/2018 21:15:36] "POST / HTTP/1.1" 404 2041
+Not Found: /
+[11/Dec/2018 21:59:31] "POST / HTTP/1.1" 404 2041
+Not Found: /
+[11/Dec/2018 22:21:14] "POST / HTTP/1.1" 404 2041
+Not Found: /
+[11/Dec/2018 23:27:07] "POST / HTTP/1.1" 404 2041
+Invalid HTTP_HOST header: 'www.baidu.com'. You may need to add 'www.baidu.com' to ALLOWED_HOSTS.
+Bad Request: /http:/www.baidu.com/cache/global/img/gs.gif
+[12/Dec/2018 01:10:21] "GET http://www.baidu.com/cache/global/img/gs.gif HTTP/1.1" 400 59077
+Not Found: /
+[12/Dec/2018 01:35:49] "POST / HTTP/1.1" 404 2041
+Not Found: /
+[12/Dec/2018 01:58:47] "POST / HTTP/1.1" 404 2041
+[12/Dec/2018 02:28:26] "GET /index/ HTTP/1.1" 200 5936
+Not Found: /index/MyIcon.png
+[12/Dec/2018 02:28:49] "GET /index/MyIcon.png HTTP/1.1" 404 2110
+[12/Dec/2018 02:29:07] "POST /index/ HTTP/1.1" 200 6210
+[12/Dec/2018 02:29:20] "POST /index/ HTTP/1.1" 200 6210
+[12/Dec/2018 02:43:42] "GET /index/ HTTP/1.1" 200 5936
+[12/Dec/2018 02:43:45] "GET /admin/ HTTP/1.1" 302 0
+[12/Dec/2018 02:43:45] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1818
+[12/Dec/2018 02:43:45] "GET /static/admin/css/base.css HTTP/1.1" 200 16225
+[12/Dec/2018 02:43:45] "GET /static/admin/css/responsive.css HTTP/1.1" 200 17976
+[12/Dec/2018 02:43:45] "GET /static/admin/css/login.css HTTP/1.1" 200 1203
+[12/Dec/2018 02:43:45] "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+[12/Dec/2018 02:43:45] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 80304
+[12/Dec/2018 02:43:45] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 81348
+[12/Dec/2018 02:43:54] "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[12/Dec/2018 02:43:54] "GET /admin/ HTTP/1.1" 200 3089
+[12/Dec/2018 02:43:54] "GET /static/admin/css/dashboard.css HTTP/1.1" 200 412
+[12/Dec/2018 02:43:54] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 82564
+[12/Dec/2018 02:43:54] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+[12/Dec/2018 02:43:55] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+[12/Dec/2018 02:43:57] "GET /admin/experiment/unlabel_data/ HTTP/1.1" 200 64094
+[12/Dec/2018 02:43:57] "GET /static/admin/css/changelists.css HTTP/1.1" 200 6170
+[12/Dec/2018 02:43:57] "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 363
+[12/Dec/2018 02:43:57] "GET /static/admin/js/core.js HTTP/1.1" 200 7135
+[12/Dec/2018 02:43:57] "GET /admin/jsi18n/ HTTP/1.1" 200 7684
+[12/Dec/2018 02:43:57] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 6918
+[12/Dec/2018 02:43:57] "GET /static/admin/js/actions.js HTTP/1.1" 200 6538
+[12/Dec/2018 02:43:57] "GET /static/admin/js/urlify.js HTTP/1.1" 200 8972
+[12/Dec/2018 02:43:57] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 128820
+[12/Dec/2018 02:43:57] "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1530
+[12/Dec/2018 02:43:57] "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+[12/Dec/2018 02:43:57] "GET /static/admin/img/icon-no.svg HTTP/1.1" 200 560
+[12/Dec/2018 02:43:57] "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+[12/Dec/2018 02:43:59] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 271751
+[12/Dec/2018 02:44:00] "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+[12/Dec/2018 02:44:00] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+[12/Dec/2018 02:44:19] "GET /admin/experiment/unlabel_data/?o=1 HTTP/1.1" 200 64656
+[12/Dec/2018 02:44:19] "GET /admin/jsi18n/ HTTP/1.1" 200 7684
+[12/Dec/2018 02:45:41] "GET /admin/experiment/unlabel_data/ HTTP/1.1" 200 64094
+[12/Dec/2018 02:45:42] "GET /admin/ HTTP/1.1" 200 3089
+[12/Dec/2018 02:45:43] "GET /admin/login/?next=/admin/ HTTP/1.1" 302 0
+[12/Dec/2018 02:45:43] "GET /admin/ HTTP/1.1" 200 3089
+[12/Dec/2018 02:45:44] "GET /index/ HTTP/1.1" 200 5936
+[12/Dec/2018 02:45:50] "POST /index/ HTTP/1.1" 200 6210
+[12/Dec/2018 02:46:00] "GET /admin/ HTTP/1.1" 200 3089
+[12/Dec/2018 02:46:03] "GET /admin/experiment/text/ HTTP/1.1" 200 49630
+[12/Dec/2018 02:46:03] "GET /admin/jsi18n/ HTTP/1.1" 200 7684
+[12/Dec/2018 02:46:08] "GET /admin/experiment/text/?o=1 HTTP/1.1" 200 51077
+[12/Dec/2018 02:46:08] "GET /admin/jsi18n/ HTTP/1.1" 200 7684
+[12/Dec/2018 02:46:11] "GET /admin/experiment/text/ HTTP/1.1" 200 49630
+[12/Dec/2018 02:46:11] "GET /admin/ HTTP/1.1" 200 3089
+[12/Dec/2018 02:46:55] "POST /index/ HTTP/1.1" 200 6210
+[12/Dec/2018 02:46:59] "POST /index/ HTTP/1.1" 200 5936
+[12/Dec/2018 02:47:12] "POST /index/ HTTP/1.1" 200 6210
+[12/Dec/2018 02:47:24] "POST /index/ HTTP/1.1" 200 6210
+[12/Dec/2018 02:47:32] "POST /index/ HTTP/1.1" 200 6210
+[12/Dec/2018 02:47:48] "POST /index/ HTTP/1.1" 200 6210
+[12/Dec/2018 02:48:03] "POST /index/ HTTP/1.1" 200 6210
+[12/Dec/2018 02:49:09] "GET /index/ HTTP/1.0" 200 5936
+[12/Dec/2018 02:50:09] "GET /index HTTP/1.1" 301 0
+[12/Dec/2018 02:52:11] "POST /index/ HTTP/1.1" 200 6210
+[12/Dec/2018 02:52:16] "POST /index/ HTTP/1.1" 200 6210
+Performing system checks...
+
+load preprocess beginning...
+load preprocess finishing...
+System check identified no issues (0 silenced).
+December 10, 2018 - 15:57:08
+Django version 2.1.3, using settings 'TextClassifyServer.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+以上比赛规则由江苏科技大学教职工摄影协会负责解释 ['0']
+Start SVM Test!
+SVM predict result: 0
+SVM predict time: 0.978
+Start LR Test!
+LR predict result: 0
+LR predict time: 0.002
+Start SVM Test!
+DT predict result: 0
+DT predict time: 0.006
+Start LGBM Test!
+LGBM predict result: 0
+LGBM predict time: 0.148
+.x月xx日推出凭证式国债x年期x.xx.xx%，x年期x.xx%到期一次还本付息。真情邮政，为您竭诚服务！  咨询电话xxxx-xx ['0']
+Start SVM Test!
+SVM predict result: 1
+SVM predict time: 0.004
+Start LR Test!
+LR predict result: 1
+LR predict time: 0.002
+Start SVM Test!
+DT predict result: 1
+DT predict time: 0.002
+Start LGBM Test!
+LGBM predict result: 1
+LGBM predict time: 0.107
+----------------------------------------
+Exception happened during processing of request from ('85.25.185.112', 45347)
+----------------------------------------
+.x月xx日推出凭证式国债x年期x.xx.xx%，x年期x.xx%到期一次还本付息。真情邮政，为您竭诚服务！  咨询电话xxxx-xx ['0']
+Start SVM Test!
+SVM predict result: 1
+SVM predict time: 0.004
+Start LR Test!
+LR predict result: 1
+LR predict time: 0.002
+Start SVM Test!
+DT predict result: 1
+DT predict time: 0.002
+Start LGBM Test!
+LGBM predict result: 1
+LGBM predict time: 0.170
+以上比赛规则由江苏科技大学教职工摄影协会负责解释 ['0']
+Start SVM Test!
+SVM predict result: 0
+SVM predict time: 0.004
+Start LR Test!
+LR predict result: 0
+LR predict time: 0.003
+Start SVM Test!
+DT predict result: 0
+DT predict time: 0.001
+Start LGBM Test!
+LGBM predict result: 0
+LGBM predict time: 0.177
+hhh
+
+ ['0']
+Start SVM Test!
+SVM predict result: 0
+SVM predict time: 0.002
+Start LR Test!
+LR predict result: 0
+LR predict time: 0.002
+Start SVM Test!
+DT predict result: 0
+DT predict time: 0.001
+Start LGBM Test!
+LGBM predict result: 0
+LGBM predict time: 0.157
+咨询电话15685538880 ['0']
+Start SVM Test!
+SVM predict result: 0
+SVM predict time: 0.003
+Start LR Test!
+LR predict result: 0
+LR predict time: 0.002
+Start SVM Test!
+DT predict result: 0
+DT predict time: 0.001
+Start LGBM Test!
+LGBM predict result: 0
+LGBM predict time: 0.163
+ ['0']
+.x月xx日推出凭证式国债x年期x.xx.xx%，x年期x.xx%到期一次还本付息。真情邮政，为您竭诚服务！  咨询电话xxxx-xx
+ ['0']
+Start SVM Test!
+SVM predict result: 1
+SVM predict time: 0.005
+Start LR Test!
+LR predict result: 1
+LR predict time: 0.003
+Start SVM Test!
+DT predict result: 1
+DT predict time: 0.002
+Start LGBM Test!
+LGBM predict result: 1
+LGBM predict time: 0.153
+庆x'x节本会所优惠活动，为答谢新老顾客的支持与厚爱，，面部特卡:xxx元/xx次，身体活动，带脉减小肚腩:xxxx元/xx次，，肠胃
+
+ ['0']
+Start SVM Test!
+SVM predict result: 1
+SVM predict time: 0.007
+Start LR Test!
+LR predict result: 1
+LR predict time: 0.002
+Start SVM Test!
+DT predict result: 1
+DT predict time: 0.004
+Start LGBM Test!
+LGBM predict result: 1
+LGBM predict time: 0.152
+真的对某些医生反胃看再多的阿宝的科普都无法平复对待病人居高临下咄咄逼人把自己医院的阶级斗争的情绪发泄在病人身上真让人恶心难怪会有医闹的存在说真的好想给他那张欠揍的脸一拳艹
+ ['0']
+Start SVM Test!
+SVM predict result: 0
+SVM predict time: 0.012
+Start LR Test!
+LR predict result: 0
+LR predict time: 0.002
+Start SVM Test!
+DT predict result: 0
+DT predict time: 0.010
+Start LGBM Test!
+LGBM predict result: 0
+LGBM predict time: 0.168
+家长新年好！围棋李 老师拜年了！同时新学期围棋班也将于下周正式开班！上课时间不变。 本学期共设置xx次课程，学费xxx元，五一比赛报名
+ ['0']
+Start SVM Test!
+SVM predict result: 1
+SVM predict time: 0.006
+Start LR Test!
+LR predict result: 1
+LR predict time: 0.002
+Start SVM Test!
+DT predict result: 1
+DT predict time: 0.003
+Start LGBM Test!
+LGBM predict result: 1
+LGBM predict time: 0.167
+Twitter上已经转疯的一张神秘图片和这个神秘帅哥的视频
+ ['0']
+Start SVM Test!
+SVM predict result: 0
+SVM predict time: 0.005
+Start LR Test!
+LR predict result: 0
+LR predict time: 0.002
+Start SVM Test!
+DT predict result: 0
+DT predict time: 0.002
+Start LGBM Test!
+LGBM predict result: 0
+LGBM predict time: 0.163
+不好不好不好吧 ['0']
+Start SVM Test!
+SVM predict result: 0
+SVM predict time: 0.003
+Start LR Test!
+LR predict result: 0
+LR predict time: 0.002
+Start SVM Test!
+DT predict result: 0
+DT predict time: 0.001
+Start LGBM Test!
+LGBM predict result: 0
+LGBM predict time: 0.165
+以上比赛规则由江苏科技大学教职工摄影协会负责解释 ['0']
+Start SVM Test!
+SVM predict result: 0
+SVM predict time: 0.003
+Start LR Test!
+LR predict result: 0
+LR predict time: 0.002
+Start SVM Test!
+DT predict result: 0
+DT predict time: 0.001
+Start LGBM Test!
+LGBM predict result: 0
+LGBM predict time: 0.163
+/usr/local/lib/python3.5/dist-packages/sklearn/base.py:251: UserWarning: Trying to unpickle estimator CountVectorizer from version 0.19.1 when using version 0.20.1. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+/usr/local/lib/python3.5/dist-packages/sklearn/base.py:251: UserWarning: Trying to unpickle estimator TfidfTransformer from version 0.19.1 when using version 0.20.1. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+/usr/local/lib/python3.5/dist-packages/sklearn/base.py:251: UserWarning: Trying to unpickle estimator LogisticRegression from version 0.19.1 when using version 0.20.1. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+/usr/local/lib/python3.5/dist-packages/sklearn/base.py:251: UserWarning: Trying to unpickle estimator TruncatedSVD from version 0.19.1 when using version 0.20.1. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+/usr/local/lib/python3.5/dist-packages/sklearn/base.py:251: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.19.1 when using version 0.20.1. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+/usr/local/lib/python3.5/dist-packages/sklearn/base.py:251: UserWarning: Trying to unpickle estimator TfidfTransformer from version 0.19.2 when using version 0.20.1. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+/usr/local/lib/python3.5/dist-packages/sklearn/base.py:251: UserWarning: Trying to unpickle estimator SVC from version 0.19.2 when using version 0.20.1. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+Performing system checks...
+
+load preprocess beginning...
+load preprocess finishing...
+System check identified no issues (0 silenced).
+December 12, 2018 - 02:53:48
+Django version 2.1.3, using settings 'TextClassifyServer.settings'
+Starting development server at http://0.0.0.0:8000/
+Quit the server with CONTROL-C.
+/usr/local/lib/python3.5/dist-packages/sklearn/base.py:251: UserWarning: Trying to unpickle estimator CountVectorizer from version 0.19.1 when using version 0.20.1. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+/usr/local/lib/python3.5/dist-packages/sklearn/base.py:251: UserWarning: Trying to unpickle estimator TfidfTransformer from version 0.19.1 when using version 0.20.1. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+/usr/local/lib/python3.5/dist-packages/sklearn/base.py:251: UserWarning: Trying to unpickle estimator LogisticRegression from version 0.19.1 when using version 0.20.1. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+/usr/local/lib/python3.5/dist-packages/sklearn/base.py:251: UserWarning: Trying to unpickle estimator TruncatedSVD from version 0.19.1 when using version 0.20.1. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+/usr/local/lib/python3.5/dist-packages/sklearn/base.py:251: UserWarning: Trying to unpickle estimator LabelEncoder from version 0.19.1 when using version 0.20.1. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+/usr/local/lib/python3.5/dist-packages/sklearn/base.py:251: UserWarning: Trying to unpickle estimator TfidfTransformer from version 0.19.2 when using version 0.20.1. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+/usr/local/lib/python3.5/dist-packages/sklearn/base.py:251: UserWarning: Trying to unpickle estimator SVC from version 0.19.2 when using version 0.20.1. This might lead to breaking code or invalid results. Use at your own risk.
+  UserWarning)
+[12/Dec/2018 02:59:20] "GET /index/ HTTP/1.1" 200 5936
+Building prefix dict from the default dictionary ...
+Loading model from cache /tmp/jieba.cache
+Loading model cost 0.927 seconds.
+Prefix dict has been built succesfully.
+[12/Dec/2018 02:59:30] "POST /index/ HTTP/1.1" 200 6210
+[12/Dec/2018 02:59:37] "POST /index/ HTTP/1.1" 200 6210
+[12/Dec/2018 02:59:40] "GET /admin/ HTTP/1.1" 200 3089
+[12/Dec/2018 02:59:41] "GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+[12/Dec/2018 02:59:41] "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+[12/Dec/2018 02:59:41] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[12/Dec/2018 02:59:41] "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+[12/Dec/2018 02:59:41] "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+[12/Dec/2018 02:59:41] "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+[12/Dec/2018 02:59:41] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 81348
+Not Found: /favicon.ico
+[12/Dec/2018 02:59:41] "GET /favicon.ico HTTP/1.1" 404 2095
+[12/Dec/2018 02:59:41] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 80304
+[12/Dec/2018 02:59:41] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 82564
+[12/Dec/2018 02:59:43] "GET /admin/experiment/unlabel_data/ HTTP/1.1" 200 72140
+[12/Dec/2018 02:59:43] "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 363
+[12/Dec/2018 02:59:43] "GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+[12/Dec/2018 02:59:43] "GET /admin/jsi18n/ HTTP/1.1" 200 7684
+[12/Dec/2018 02:59:43] "GET /static/admin/js/core.js HTTP/1.1" 304 0
+[12/Dec/2018 02:59:43] "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+[12/Dec/2018 02:59:43] "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+[12/Dec/2018 02:59:43] "GET /static/admin/js/actions.js HTTP/1.1" 304 0
+[12/Dec/2018 02:59:43] "GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+[12/Dec/2018 02:59:43] "GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+[12/Dec/2018 02:59:43] "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+[12/Dec/2018 02:59:43] "GET /static/admin/img/search.svg HTTP/1.1" 200 458
+[12/Dec/2018 02:59:43] "GET /static/admin/img/icon-no.svg HTTP/1.1" 200 560
+[12/Dec/2018 02:59:43] "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+[12/Dec/2018 02:59:44] "GET /static/admin/img/sorting-icons.svg HTTP/1.1" 304 0
+[12/Dec/2018 02:59:44] "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+[12/Dec/2018 02:59:47] "GET /admin/experiment/unlabel_data/?o=1 HTTP/1.1" 200 72701
+[12/Dec/2018 02:59:47] "GET /admin/jsi18n/ HTTP/1.1" 200 7684
+Not Found: /
+[12/Dec/2018 03:03:21] "POST / HTTP/1.1" 404 2041
+[12/Dec/2018 03:04:56] "GET /index/ HTTP/1.1" 200 5936
+Not Found: /index/MyIcon.png
+[12/Dec/2018 03:05:08] "GET /index/MyIcon.png HTTP/1.1" 404 2110
+[12/Dec/2018 03:05:19] "POST /index/ HTTP/1.1" 200 5936

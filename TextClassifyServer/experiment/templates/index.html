@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>垃圾短信分类</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<link rel="shortcut icon" href="MyIcon.png" type="image/png" />
+	<style type="text/css">
+		body {background:#F5F5F5;}
+		ul {padding:0; margin:0;}
+		li {list-style:none;}
+		#container {margin: auto 60px; width: 40%;}
+		#title {color:#146fdf;font-size:30px; text-align:center; font-family:Signika, serif; font-weight:bold;margin-top:20px;}
+		a {color:#146fdf; text-decoration: none}
+		a:hover {color: black; text-decoration: underline}
+		#g_list {margin-top:40px; background:#fff;border-radius:4px}
+		#g_u,#g_p {position:relative}
+		#g_u {border-bottom:1px solid #eaeaea}
+	.inputstyle {text-align:center;-webkit-tap-highlight-color:rgba(255,255,255,0); width:100%; height:144px;color:#000;border:0; background:0; font-size:16px;-webkit-appearance:none;line-height:normal; /* for non-ie */}
+	#cjsubmit {margin: auto;margin-top:40px; width:50%; height:44px; color:#146fdf}
+	.button {border:0px; width:100%; height:100%;color:white; background:#146fdf; border-radius:4px; font-size:16px;}
+	#notice {text-align:center; margin-top:60px; color:#246183; line-height:14px; font-size:14px; padding:15px 10px}
+</style>
+<script src="https://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
+<script src="https://code.highcharts.com/highcharts.js"></script>
+<script src="https://img.hcharts.cn/highcharts/themes/sand-signika.js"></script>
+
+</head>
+<body>
+
+	<div id="container" style="float:left">
+		<div id="title">垃圾短信分类</div>  
+		<form method=post action="/index/" onSubmit=javascript:CheckContent()>
+			{% csrf_token %}
+			<ul  id="g_list">
+				<li  id="g_u">
+					<div  id="del_touch"  class="del_touch">
+						<span  id="del_u"  class="del_u"  style="display: none;"></span>
+					</div>
+					<textarea  id="u"  class="inputstyle"  name="pmessage"  autocomplete="off" placeholder="请输入短信文本！"></textarea>
+				</li>
+			</ul>
+
+		</br>
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<label><input name="Algor" type="checkbox" checked="checked" value="0" />全选 </label>&nbsp;&nbsp;
+		<label><input name="Algor" type="checkbox" value="1" />SVM </label>&nbsp;&nbsp;
+		<label><input name="Algor" type="checkbox" value="2" />LR </label>&nbsp;&nbsp;
+		<label><input name="Algor" type="checkbox" value="3" />决策树 </label>&nbsp;&nbsp;
+		<label><input name="Algor" type="checkbox" value="4" />Boosting </label>
+
+		<div id="cjsubmit"><input type=submit value=识别 class="button" ></div>
+		
+		<script>
+			var SelectFalse = false; //用于判断是否被选择条件
+			function CheckContent()
+			{
+
+				if(document.getElementById("u").value == "")
+				{
+				   	alert('请输入短信文本!');
+				   	return false;
+				}
+
+				var CheckBox = $('input[name = Algor]');//得到所的复选框
+				for(var i = 0; i < CheckBox.length; i++)
+				{
+					if(CheckBox[i].checked)//如果有1个被选中时
+					{
+						SelectFalse = true;
+					}
+				}
+				if(!SelectFalse)
+				{
+					alert("请至少选用一种算法！");
+					return false;
+				}
+				return true;
+			}
+		</script>
+
+</br>
+<table style="margin:auto">
+	<h1 style="float:left;color:#146fdf;font-family:Signika, serif;font-size:30px;font-weight:bold">分类结果</h1>
+</br>
+<tr>
+	<th>算法&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+	<th>分类结果&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+	<th>时间</th>
+</tr>
+{% for item in data %}
+<tr>
+	<td>{{ item.name }}</td>
+	<td>{{ item.answer }}</td>
+	<td>{{ item.time }}</td>
+</tr>
+{% endfor %}
+</table>
+</form>
+</div>
+</div>
+
+<!--     {{ form }} -->
+
+<div id="container1" style="float:left;width: 600px; height: 430px;"></div>
+<script language="JavaScript">
+	$(document).ready(function() {  
+		var chart = {
+			type: 'column'
+		};
+		var title = {
+			text: '算法评估对比'   
+		};
+		var subtitle = {
+			text: ''  
+		};
+		var xAxis = {
+	      //categories: ['Accuracy','Precision','Recall','F1',],
+	      categories: ['准确率','精准率','召回率','F1',],
+	      crosshair: true
+	  };
+	  var yAxis = {
+	  	min: 60,
+                max: 100,
+	  	title: {
+	  		text: '比值 (%)'         
+	  	}      
+	  };
+	  var tooltip = {
+	  	headerFormat: '<span style="font-size:25px">{point.key}</span><table>',
+	  	pointFormat: '<tr><td style="color:{series.color};padding:0">{series.name}: </td>' +
+	  	'<td style="padding:0"><b>{point.y:.1f} %</b></td></tr>',
+	  	footerFormat: '</table>',
+	  	shared: true,
+	  	useHTML: true
+	  };
+	  var plotOptions = {
+	  	column: {
+	  		pointPadding: 0.2,
+	  		borderWidth: 0
+	  	}
+	  };  
+	  var credits = {
+	  	enabled: false
+	  };
+	  
+	  var series= [{
+	  	name: 'SVM',
+	  	data: [99.2, 99.0, 99.0, 99.0,]
+	  }, {
+	  	name: 'LR',
+	  	data: [99.4, 99.2, 99.6, 99.4, ]
+	  }, {
+	  	name: '决策树',
+	  	data: [99.1, 96.0, 95.0, 95.5,]
+	  }, {
+	  	name: 'Boosting',
+	  	data: [99.2, 99.3, 99.5, 99.4,]
+	  }];     
+	  
+	  var json = {};   
+	  json.chart = chart; 
+	  json.title = title;   
+	  json.subtitle = subtitle; 
+	  json.tooltip = tooltip;
+	  json.xAxis = xAxis;
+	  json.yAxis = yAxis;  
+	  json.series = series;
+	  json.plotOptions = plotOptions;  
+	  json.credits = credits;
+	  $('#container1').highcharts(json);
+	  
+	});
+</script>
+
+<div id="database">
+	<p style="float:left;color:black;font-family:Signika, serif;font-size:16px;font-weight:bold">上图是各种算法的评估对比，可以从数据库中查看无标签数据不同算法的测试信息。</p>
+	<a href="http://47.104.152.193:8000/admin/" ><button style="margin:-180px 50px 40px 900px;border:0px; width:150px; height:40px;color:white; background:#146fdf; border-radius:4px; font-size:16px;">查看数据库</button></a>
+</div>
+
+</body>
+</html>
